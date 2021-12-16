@@ -10,5 +10,5 @@ interface Wrapper
     /**
      * Get version of cmd wrapper.
      */
-    public function version(): string;
+    public function version(): Version;
 }
