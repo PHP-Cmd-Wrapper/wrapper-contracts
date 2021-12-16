@@ -1,0 +1,6 @@
+.gitignore         export-ignore
+.gitattributes     export-ignore
+LICENSE            export-ignore
+README.md          export-ignore
+.mr-linter.php     export-ignore
+.php-cs-fixer.php  export-ignore
